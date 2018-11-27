@@ -1,5 +1,8 @@
 # Changelog
 
+## 5
+- Use ubuntu as base image
+
 ## 4
 - Use new Hass.io Services API and cleanup config
 
